@@ -1,0 +1,78 @@
+
+.border{
+width:700px;
+height:1000px;
+background-color:#FFDAC4;
+border-width: 15px;
+border-style:double;
+border-radius:20px;
+border-color:#FF7700;
+}
+.body{background-color:#89009C;
+  font-family:sans-serif;
+  font-size: 150%;
+}
+#one{
+text-align: center;
+text-decoration: underline;
+
+}
+#left{
+  text-align: left;
+ margin-left: 80px;
+ margin-right:80px;
+}
+
+#sub{
+color:#5757FF;
+text-decoration: underline;
+
+}
+#name{
+  color:red;
+}
+#btech{
+  color:purple;
+}
+#time{
+  color:#9669FE;
+}
+#d1{
+  background-color:none;
+   color:blue;
+  padding:0px 0px;
+  /* text-align:none; */
+  text-decoration:none;
+
+
+}
+#d2{
+  a:link{
+  background-color:none;
+   color:blue;
+  padding:0px 0px;
+  /* text-align:none; */
+  text-decoration:none;
+}
+
+}
+
+a:link{
+  background-color:red;
+   color:white;
+  padding:3px 3px;
+  text-align:center;
+  text-decoration:underline;
+  display:inline-block;
+}
+a:visited{
+  background-color:violet;
+  text-decoration:underline;
+}
+a:hover{
+  background-color:green;
+}
+a:active{
+  background-color:yellow;
+}
+<a href="" target="_blank">SUBMIT</a>
